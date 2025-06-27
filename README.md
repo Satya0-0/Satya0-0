@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Professionaly working as Data Analyst, I use this space to explore AI, and ML.<br>
-I tinker with new concepts in Machine Learning and try to implement them here. <br>
+Full-time Data Analyst, part-time AI & ML explorer. <br>Exploring AI & ML through hands-on projects here<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyanarayanaknkv) <!--[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyanarayana@gmail.com)  -->
